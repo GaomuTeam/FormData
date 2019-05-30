@@ -3,12 +3,13 @@
   "version": "3.0.18",
   "description": "HTML5 `FormData` polyfill for Browsers.",
   "main": "formdata.min.js",
-  "oScript": {
+  "_scripts_backup": {
     "scripts": {
       "build": "node build",
       "prepare": "npm run build && npm run test",
       "test": "standard ./FormData.js && karma start --single-run --browsers ChromeHeadless karma.conf.js"
-    }
+    },
+    "desc": "the content of 'scripts' will cause npm fail , and I can't figure out, so I add a new field to save it"
   },
   "repository": {
     "type": "git",

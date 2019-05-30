@@ -1,6 +1,6 @@
 # FormData
 
-This repo is a copy of a https://github.com/jimmywarting/FormData. I change something to suit our project.
+This repo is a copy of a https://github.com/jimmywarting/FormData. I change some code to suit our project.
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/jimmywarting/FormData.svg)](https://greenkeeper.io/)
 
