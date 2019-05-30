@@ -1,9 +1,9 @@
 {
-  "name": "formdata-polyfill",
+  "name": "formdata-polyfill-gm",
   "version": "3.0.18",
   "description": "HTML5 `FormData` polyfill for Browsers.",
   "main": "formdata.min.js",
-  "oScript":{
+  "oScript": {
     "scripts": {
       "build": "node build",
       "prepare": "npm run build && npm run test",
@@ -39,5 +39,6 @@
     "karma-mocha": "^1.3.0",
     "mocha": "^6.1.4",
     "standard": "^12.0.1"
-  }
+  },
+  "dependencies": {}
 }
