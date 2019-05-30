@@ -4,13 +4,13 @@
   "description": "HTML5 `FormData` polyfill for Browsers.",
   "main": "formdata.min.js",
   "scripts": {
-    "build": "node build",
-    "prepare": "npm run build && npm run test",
-    "test": "standard ./FormData.js && karma start --single-run --browsers ChromeHeadless karma.conf.js"
+    // "build": "node build",
+    // "prepare": "npm run build && npm run test",
+    // "test": "standard ./FormData.js && karma start --single-run --browsers ChromeHeadless karma.conf.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://jimmywarting@github.com/jimmywarting/FormData.git"
+    "url": "git+https://github.com/GaomuTeam/FormData.git"
   },
   "files": [
     "FormData.js",
@@ -23,12 +23,12 @@
     "browser",
     "polyfill"
   ],
-  "author": "Jimmy Wärting",
+  "author": "GaomuTeam",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jimmywarting/FormData/issues"
   },
-  "homepage": "https://github.com/jimmywarting/FormData#readme",
+  "homepage": "https://github.com/GaomuTeam/FormData#readme",
   "devDependencies": {
     "chai": "^4.2.0",
     "karma": "^4.1.0",
