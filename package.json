@@ -3,10 +3,12 @@
   "version": "3.0.18",
   "description": "HTML5 `FormData` polyfill for Browsers.",
   "main": "formdata.min.js",
-  "scripts": {
-    // "build": "node build",
-    // "prepare": "npm run build && npm run test",
-    // "test": "standard ./FormData.js && karma start --single-run --browsers ChromeHeadless karma.conf.js"
+  "oScript":{
+    "scripts": {
+      "build": "node build",
+      "prepare": "npm run build && npm run test",
+      "test": "standard ./FormData.js && karma start --single-run --browsers ChromeHeadless karma.conf.js"
+    }
   },
   "repository": {
     "type": "git",
@@ -23,7 +25,7 @@
     "browser",
     "polyfill"
   ],
-  "author": "GaomuTeam",
+  "author": "Gaomu",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jimmywarting/FormData/issues"
