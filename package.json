@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GaomuTeam/FormData.git"
+    "url": "git+https://github.com/gaomuteam/FormData.git"
   },
   "files": [
     "FormData.js",
@@ -31,7 +31,7 @@
   "bugs": {
     "url": "https://github.com/jimmywarting/FormData/issues"
   },
-  "homepage": "https://github.com/GaomuTeam/FormData#readme",
+  "homepage": "https://github.com/gaomuteam/FormData#readme",
   "devDependencies": {
     "chai": "^4.2.0",
     "karma": "^4.1.0",
